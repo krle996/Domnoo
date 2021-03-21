@@ -1,5 +1,8 @@
 # domnoo
 
+# About project
+A restaurant web site course project
+
 ## Project setup
 ```
 npm install
